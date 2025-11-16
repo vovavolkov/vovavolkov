@@ -1,5 +1,7 @@
 # Corporate Buzzword Corporate Buzzword
-Looking for internships. 
+Looking for internships.
+
+Only 10% of my personality is based on knowing vim!
 
 When I wake up, I spend 48 hours reading HackerNews and playing Geoguessr. Finalist of 2025 SWE Lore Olympiad.
 

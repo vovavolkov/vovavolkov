@@ -1,33 +1,21 @@
-# Corporate Buzzword Corporate Buzzword
-Looking for internships.
+# Hi, I'm Vova
 
-Only 10% of my personality is based on knowing vim!
+MEng Computer Science student at the University of Warwick (First Class in years 1 and 2), looking for summer 2027 software internships. I enjoy software that has to work with real hardware, or that other people rely on every day.
 
-When I wake up, I spend 48 hours reading HackerNews and playing Geoguessr. Finalist of 2025 SWE Lore Olympiad.
+### What I've been working on
 
-I can LOCK IN - after consuming copius amounts of latest Tech News, I spend half a day overoptimising my self hosted services.
+- **STFC Rutherford Appleton Laboratory (summer 2026):** sole developer of a web tool that automates quality-control testing of ATLAS ITk pixel detector modules. Async Python (FastAPI) orchestrating four test stands over SSH, with power sequencing, interlock handling and around 900 tests against a simulated hardware layer. Now part of the team's daily routine. *(Code not public.)*
+- **Airport Simulator:** led a team of six building an airport-operations simulator with a Java (Micronaut) REST backend and SvelteKit frontend. *(University project, private.)*
+- **Embedded Pong:** bare-metal C on an Arm microcontroller, with joystick input through the ADC and an LED matrix driven through shift registers.
+- **[sensorPi](https://github.com/vovavolkov/sensorPi):** my A-Level project, a Raspberry Pi CO2 monitor with SQLite logging and an OLED display.
+- **Homelab:** self-hosted services in Docker behind Caddy, AdGuard Home for DNS, Tailscale for remote access and rsync backups. Where I learnt most of my Linux.
 
-**Imagine the result if instead of configs I am let loose on some meaningful work provided by YOU.**
+### Tools
 
-I LOVE creating shareholder value - my dream job is optimising heuristic values to increase capital flow into your pockets.
+Python, C, Java, Bash, SQL, Linux, Git, Docker, pytest. Only 10% of my personality is knowing Vim.
 
-I AM a team player - compsci student who actually is able to and enjoys talking to people? Unreal.
+### Elsewhere
 
-# Touching Grass
-Most of my time outside of computering is spent in rowing boats.
-Pictured on the left is Unemployed me, outside, in the sun, no computers around, unbothered, moisturised, happy, in my lane, focused, flourishing. 
+Outside computers I row, ride long distances and cook.
 
-<!--
-**vovavolkov/vovavolkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+[vovavolkov.com](https://vovavolkov.com) | [LinkedIn](https://linkedin.com/in/vovavolkov/) | careers@vovavolkov.com

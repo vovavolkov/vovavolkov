@@ -8,7 +8,7 @@ MEng Computer Science student at the University of Warwick (First Class in years
 - **Airport Simulator:** led a team of six building an airport-operations simulator with a Java (Micronaut) REST backend and SvelteKit frontend. *(University project, private.)*
 - **Embedded Pong:** bare-metal C on an Arm microcontroller, with joystick input through the ADC and an LED matrix driven through shift registers.
 - **[sensorPi](https://github.com/vovavolkov/sensorPi):** my A-Level project, a Raspberry Pi CO2 monitor with an I2C sensor, OLED display, SQLite logging and a Flask dashboard with daily graphs.
-- **Homelab:** self-hosted services in Docker behind Caddy, AdGuard Home for DNS, Tailscale for remote access and rsync backups. Where I learnt most of my Linux.
+- **[Homelab](https://github.com/vovavolkov/services):** self-hosted services in Docker behind Caddy, AdGuard Home for DNS, Tailscale for remote access and rsync backups. Where I learnt most of my Linux.
 
 ### Tools
 

@@ -16,6 +16,6 @@ Python, C, Java, Bash, SQL, Linux, Git, Docker, pytest. Only 10% of my personali
 
 ### Elsewhere
 
-Outside computers I row, ride long distances and cook.
+Outside computers I row, cycle long distances and cook.
 
 [vovavolkov.com](https://vovavolkov.com) | [LinkedIn](https://linkedin.com/in/vovavolkov/) | careers@vovavolkov.com
